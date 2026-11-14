@@ -17,7 +17,7 @@ const POEM = [
   'and moving them until they knew the way.',
   '',
   'I taught the agent the same way —',
-  'a hundred rows, until the motion knew itself.',
+  'a hundred rows, until the motion knew the way.',
   '',
   'Now it knits while I sleep.',
   "The rows come back even, and I can't tell",
